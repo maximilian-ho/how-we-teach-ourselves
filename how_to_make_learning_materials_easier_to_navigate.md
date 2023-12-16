@@ -12,7 +12,7 @@ We obtain epub and pdf files from a shadow library. The key idea behind all thes
 We don’t claim that these techniques are the best for everyone, only that they work for us. We wish to share them in case they help anyone. Furthermore, we continue to update our learning techniques as we learn from others.
 
 ## 1. Read epub books using Moon+ reader
-We enjoy reading books on social issues. They remind us to leave no one behind. To read these books, we use Moon+ reader on our phones.
+We enjoy reading books on social issues. To read these books, we use Moon+ reader on our phones.
 
 The screenshots below show the contents (left image) and bookmarks (right image) of a book in Moon+ reader.
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/ece7d129-9521-4f59-b5d1-8806ec5f9c7d)
