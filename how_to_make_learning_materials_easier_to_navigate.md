@@ -1,9 +1,9 @@
 # How to make learning materials easier to navigate
 
 The three learning techniques we recommend in this article are:  
-**1. Read epub books using Moon+ reader**  
-**2. Annotate pdf textbooks using Foxit pdf editor**  
-**3. Organize online articles using Microsoft Word**  
+**1. Organize online articles using Microsoft Word**  
+**2. Read epub books using Moon+ reader**  
+**3. Annotate pdf textbooks using Foxit pdf editor**  
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/bb542e06-ec37-4f39-872a-88287dc0ca6c)
 
@@ -11,7 +11,14 @@ The key idea behind all these techniques is to make the learning materials easie
 
 We don’t claim that these techniques are the best for everyone, only that they work for us. We wish to share them in case they help anyone. Furthermore, we continue to update our learning techniques as we learn from others.
 
-## 1. Read epub books using Moon+ reader
+## 1. Organize online articles using Microsoft Word
+We organize links to useful online articles in one Word document.
+
+![image](https://github.com/maximilian-ho/articles/assets/94465856/3273b2eb-266c-4253-a21c-0d12694a2383)
+
+To follow humanitarian developments, we also bookmarked the [United Nation’s news webpage](https://news.un.org/en/news).
+
+## 2. Read epub books using Moon+ reader
 We enjoy reading books on social issues. To read these books, we use Moon+ reader on our phones.
 
 The screenshots below show the contents (left image) and bookmarks (right image) of a book in Moon+ reader.
@@ -33,7 +40,7 @@ Moon+ reader is highly customizable. We recommend using the settings in the scre
 
 “Disable CSS styles” (left image) standardizes the font settings for all books. Meanwhile, setting the “Left to Right” finger gesture to “Show Chapters” (right image) allows us to quickly access the bookmarks.
 
-## 2. Annotate pdf textbooks using Foxit pdf editor
+## 3. Annotate pdf textbooks using Foxit pdf editor
 Textbooks can be very complex and overwhelming. Hence, when learning from pdf textbooks, we type our notes directly onto the pages. This helps us to process the concepts one step at a time, and understand the text when we review it later.
 
 **Editing bookmarks using a code editor**  
@@ -65,20 +72,4 @@ When there is no space on a page to add a note, we make space by deleting header
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/79d2071e-9561-4f88-913d-0b3814d3df6d) 
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/248cec69-cb40-44fa-91c1-25a4ea48bf99)  
-
-## 3. Organize online articles using Microsoft Word
-We organize links to useful online articles in one Word document.
-
-![image](https://github.com/maximilian-ho/articles/assets/94465856/3273b2eb-266c-4253-a21c-0d12694a2383)
-
-To follow humanitarian developments, we also bookmarked the [United Nation’s news webpage](https://news.un.org/en/news).
-
-
-
-
-
-
-
-
-
 
