@@ -5,7 +5,7 @@ The three learning techniques we recommend in this article are:
 **2. Read epub books using Moon+ reader**  
 **3. Annotate pdf textbooks using Foxit pdf editor**  
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/e9f46615-dce2-4f14-8809-d2d48df72477)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/6aab0512-eb3a-4c1d-af42-2f162b14d4b5)
 
 The key idea behind all these techniques is to make the learning materials easier to navigate. This helps us to quickly jump between different sections.
 
