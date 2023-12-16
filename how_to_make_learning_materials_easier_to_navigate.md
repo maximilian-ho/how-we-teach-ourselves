@@ -7,7 +7,7 @@ The three learning techniques we recommend in this article are:
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/bb542e06-ec37-4f39-872a-88287dc0ca6c)
 
-We obtain epub and pdf files from a shadow library. The key idea behind all these techniques is to make the learning materials easier to navigate. This helps us to quickly jump between different sections.
+The key idea behind all these techniques is to make the learning materials easier to navigate. This helps us to quickly jump between different sections.
 
 We don’t claim that these techniques are the best for everyone, only that they work for us. We wish to share them in case they help anyone. Furthermore, we continue to update our learning techniques as we learn from others.
 
