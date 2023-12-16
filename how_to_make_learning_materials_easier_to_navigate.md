@@ -19,7 +19,7 @@ We organize links to useful online articles in one Word document.
 To follow humanitarian developments, we also bookmarked the [United Nation’s news webpage](https://news.un.org/en/news).
 
 ## 2. Read epub books using Moon+ reader
-We enjoy reading books on social issues. To read these books, we use Moon+ reader on our phones.
+We read books on social issues using Moon+ reader on our phones.
 
 The screenshots below show the contents (left image) and bookmarks (right image) of a book in Moon+ reader.
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/ece7d129-9521-4f59-b5d1-8806ec5f9c7d)
