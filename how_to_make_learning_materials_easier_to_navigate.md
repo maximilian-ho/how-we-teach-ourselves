@@ -66,7 +66,7 @@ When there is no space on a page to add a note, we make space by deleting header
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/248cec69-cb40-44fa-91c1-25a4ea48bf99)  
 
-**3. Organize online articles using Microsoft Word**  
+## 3. Organize online articles using Microsoft Word
 We organize links to useful online articles in one Word document.
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/3273b2eb-266c-4253-a21c-0d12694a2383)
