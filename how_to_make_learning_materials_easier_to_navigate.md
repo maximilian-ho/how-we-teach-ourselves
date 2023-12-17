@@ -17,7 +17,7 @@ We organize links to useful online articles in one Word document.
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/3273b2eb-266c-4253-a21c-0d12694a2383)
 
 ## 2. Read epub books using Moon+ reader
-We read books on social issues using Moon+ reader on our phones. Whenever we lack motivation, we set a three-minute timer, during which we must read the books.
+We read books on social issues using Moon+ reader on our phones. 
 
 The screenshots below show the contents (left image) and bookmarks (right image) of a book in Moon+ reader.
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/ece7d129-9521-4f59-b5d1-8806ec5f9c7d)
