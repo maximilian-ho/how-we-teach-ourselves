@@ -4,4 +4,4 @@ If our definition of winning is being number 1, then everyone loses, because eve
  
 Meanwhile, if our definition of winning is improving society, then everyone can win, because everyone can contribute to society. This mindset causes us to see everyone as collaborators, and makes us empower others.
 
-It's unlucky that destructive instincts are wired into our brains. But we can develop rational thinking to overcome these instincts, such as by reading books on social issues.
+It's unlucky that destructive instincts are wired into our brains. Hence, we must develop rational thinking to overcome these instincts, such as by reading books on social issues.
