@@ -1,3 +1,3 @@
 # How to overcome failure
 
-Whenever we f
+Whenever we fail, we focus on the causes.  
