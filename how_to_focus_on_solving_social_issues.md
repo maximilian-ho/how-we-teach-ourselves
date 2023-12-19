@@ -4,4 +4,4 @@
 
 **Reduce our consumption of entertainment:** Whenever we lack motivation, we set a three-minute timer, during which we must work.    
 
-**Overcome regret:** We focus on helping others to avoid the mistakes we made (without being condescending).   
+**Overcome regret:** To overcome regret, we focus on helping others to avoid the mistakes we made (without being condescending).   
