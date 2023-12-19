@@ -1,3 +1,3 @@
-# How to focus on solving social issues  
+# How to 
 
 Whenever we perform worse than others, ...
