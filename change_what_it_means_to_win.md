@@ -4,4 +4,4 @@ If our definition of winning is being superior to others, then everyone loses, b
 
 Meanwhile, if our definition of winning is improving society, then everyone wins, because we empower others. 
 
-It's unlucky that destructive desires are wired into our brains. At the same time, we can develop rational thinking to overcome these desires, such as by reading books on social issues.
+It's unlucky that destructive emotions are wired into our brains. At the same time, we can develop rational thinking to overcome these emotions, such as by reading books on social issues.
