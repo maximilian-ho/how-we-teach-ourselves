@@ -23,7 +23,7 @@ The screenshots below show the contents (left image) and bookmarks (right image)
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/ece7d129-9521-4f59-b5d1-8806ec5f9c7d)
 
 **Adding bookmarks using Calibre**  
-To make the books easy to navigate, it’s crucial that they have comprehensive bookmarks. Since most epub books have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the heading tag and class attribute of each chapter title and subsection title.
+To make the books easy to navigate, they must have comprehensive bookmarks. Since most epub books have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the heading tag and class attribute of each chapter title and subsection title.
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/2a6cb95c-e884-42ae-bb3c-c34f18776095)
 
