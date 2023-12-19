@@ -1,3 +1,0 @@
-# How to 
-
-Whenever we perform worse than others, ...
