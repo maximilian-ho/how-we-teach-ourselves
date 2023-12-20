@@ -1,4 +1,4 @@
-# How to make learning materials easier to navigate
+# Using software to make learning materials easier to navigate
 
 The three learning techniques we recommend in this article are:  
 **1. Organize online articles using Microsoft Word**  
