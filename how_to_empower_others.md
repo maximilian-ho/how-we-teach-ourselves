@@ -1,3 +1,3 @@
-# How to stop putting down others   
+# How to empower others   
 
 We continuously read books on social issues.  
