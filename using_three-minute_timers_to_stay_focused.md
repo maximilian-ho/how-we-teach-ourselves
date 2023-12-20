@@ -1,3 +1,3 @@
 # Using three-minute timers to stay focused  
 
-We continuously set three-minute timers, during which we must work. 
+We continuously set three-minute timers, during which we must work. The short time intervals help us to stay focused.  
