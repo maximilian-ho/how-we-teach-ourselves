@@ -7,4 +7,4 @@ The procedure is:
 **2.** Work until the timer goes off    
 **3.** If we want to continue working, we set another three-minute timer. Else, we take a break.   
 
-**How it works:** The most difficult part of working is getting started becaause we often dread all the work we need to complete. The three-minute timer reduces this dread because we only need to focus for three minutes.  
+**How it works:** The most difficult part of working is getting started because we often dread all the work we need to complete. The three-minute timer reduces this dread because we only need to focus for three minutes.  
