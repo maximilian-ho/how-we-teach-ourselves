@@ -26,10 +26,3 @@ Currently, we cannot type equations in Foxit pdf editor. Hence, we type our equa
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/2cd5c31d-2a0f-4e40-ad1e-d0b17cb8181e)
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/a4fd5658-b101-4141-b8e5-fa3d4aaa0646)
-
-**Making space**  
-When there is no space on a page to add a note, we make space by resizing the page. 
-
-![image](https://github.com/maximilian-ho/articles/assets/94465856/79d2071e-9561-4f88-913d-0b3814d3df6d) 
-
-![image](https://github.com/maximilian-ho/articles/assets/94465856/248cec69-cb40-44fa-91c1-25a4ea48bf99)  
