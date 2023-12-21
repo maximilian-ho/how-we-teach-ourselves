@@ -2,7 +2,7 @@
 
 We continuously read books on management and social issues to learn how to empower others. Many people put down others because they are unaware that there is a better way to live. These books show us the way. 
 
-We read these books on our phones using Moon+ reader. Whenever we feel like reading, we open Moon+ reader and read for a few minutes. Furthermore, we don't read books in a linear order. Instead, we jump between different sections of different books. This allows us to constantly revise the good advice in the books. 
+We read these books on our phones using Moon+ reader. Whenever we feel like reading, we open Moon+ reader and read for a few minutes. Furthermore, we don't read books in a linear order. Instead, we jump between different sections of different books. This allows us to constantly revise the good advice in each book. 
 
 The screenshots below show the contents (left image) and bookmarks (right image) of a book in Moon+ reader. 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/868df99f-9d69-4d49-ba38-55ee7c1f9592)
