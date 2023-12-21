@@ -5,4 +5,4 @@ We continuously set three-minute timers, during which we must work. The short ti
 <img src="https://github.com/maximilian-ho/articles/assets/94465856/5348e115-ff63-4a76-ac3d-f95890b04486" width="300">
 <br><br>
 
-**How it works:** The most difficult part of working is getting started because we often dread all the work we need to complete. The three-minute timers reduce this dread because we only need to focus for three minutes.  
+**How it works:** The most difficult part of working is getting started because we often dread all the work we need to complete. The three-minute timer reduces this dread because we only need to focus for three minutes, during which we gain motivation. 
