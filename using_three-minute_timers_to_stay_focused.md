@@ -1,6 +1,6 @@
 # Using three-minute timers to stay focused  
 
-We continuously set three-minute timers, during which we must work. The short time intervals help us to stay focused. After each three-minute interval, we can either continue studying or take a break, depending on how motivated we feel.  
+We continuously set three-minute timers, during which we must work. The short time intervals help us to stay focused. After each three-minute interval, we can either continue working or take a break, depending on how motivated we feel.  
 
 <img src="https://github.com/maximilian-ho/articles/assets/94465856/9bdfeeb1-2880-42c4-b1d9-e549b91c9026" width="400">
 <br><br>
