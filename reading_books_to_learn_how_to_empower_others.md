@@ -3,14 +3,14 @@
 We continuously read books on management and social issues to learn how to empower others. Many people put down others because they are unaware that there is a better way to live. These books show us the way. 
 
 **Reading on our phones**   
-We read these books on our phones using Moon+ reader. Whenever we feel like reading, we open Moon+ reader and read for a few minutes. We don't read books in a linear order. Instead, we jump between different sections, and also jump between books. This makes reading more fun. To do this, we need a comprehensive set of bookmarks for each book. We describe how to add these below. 
+We read these books on our phones using Moon+ reader. Whenever we feel like reading, we open Moon+ reader and read for a few minutes. We don't read books in a linear order. Instead, we jump between different sections, and also jump between books. This makes reading more fun. 
 
 The screenshots below show the contents (left image) and bookmarks (right image) of a book in Moon+ reader. 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/868df99f-9d69-4d49-ba38-55ee7c1f9592)
 
 
 **Adding bookmarks using Calibre**  
-To make the books easy to navigate, they must have comprehensive bookmarks. Since most epub books have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the heading tag and class attribute of each chapter title and subsection title.
+To jump between the different sections of the books, they must have comprehensive bookmarks. Since most epub books have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the heading tag and class attribute of each chapter title and subsection title.
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/d66fd7c8-c6d3-4587-a132-b4d5cf02f836)
 
