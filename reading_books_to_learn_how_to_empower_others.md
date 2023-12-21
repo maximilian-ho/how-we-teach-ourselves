@@ -18,7 +18,7 @@ To jump between the different sections of the books, they must have comprehensiv
 
 The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/c336fafc-e81c-443d-935d-c2277adc5bde)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/96ea145d-0cb0-49b2-a96f-9d05563b1bd6)
 
 
 **Customizing Moon+ reader**  
