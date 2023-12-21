@@ -24,6 +24,6 @@ Moon+ reader is highly customizable. We recommend using the settings in the scre
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/d4aca8d2-e08a-49d1-92e9-675a9669c06a)
 
-“Disable CSS styles” (left image) standardizes the font settings for all books. Meanwhile, setting the “Left to Right” finger gesture to “Show Chapters” (right image) allows us to quickly access the bookmarks.
+“Disable CSS styles” (left image) standardizes the font settings for all books. Meanwhile, setting the “Left to Right” finger gesture to “Show Chapters” (right image) allows us to quickly access the bookmarks for each book.  
 
 
