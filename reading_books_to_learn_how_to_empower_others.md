@@ -10,7 +10,7 @@ The screenshots below show the contents (left image) and bookmarks (right image)
 
 
 **Adding bookmarks using Calibre**  
-To jump between the different sections of the books, they must have comprehensive bookmarks. Since most epub books have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the heading tag and class attribute of each chapter title and subsection title.
+To jump between the different sections of the books, they must have comprehensive bookmarks. Since most epub books have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the HTML tag and class attribute of each chapter title and subsection title.
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/d66fd7c8-c6d3-4587-a132-b4d5cf02f836)
 
