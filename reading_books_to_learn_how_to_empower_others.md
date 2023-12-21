@@ -22,7 +22,7 @@ The images below show the old bookmarks (left image) and the improved bookmarks 
 
 
 **Customizing Moon+ reader**  
-Moon+ reader is highly customizable. We recommend using the settings in the screenshots below.
+We use Moon+ reader because it's highly customizable. We recommend using the settings in the screenshots below.
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/d4aca8d2-e08a-49d1-92e9-675a9669c06a)
 
