@@ -16,7 +16,7 @@ To jump between the different sections of the books, they must have comprehensiv
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/766f33c8-6ed4-45b5-9c68-d6b788f9c49a)
 
-The images below show the default bookmarks (left image) and the improved bookmarks (right image). 
+The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/c336fafc-e81c-443d-935d-c2277adc5bde)
 
