@@ -23,6 +23,8 @@ Currently, we cannot type equations in Foxit pdf editor. Hence, we type our equa
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/2cd5c31d-2a0f-4e40-ad1e-d0b17cb8181e)
 
+The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
+
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/a4fd5658-b101-4141-b8e5-fa3d4aaa0646)
 
 **Making space**  
