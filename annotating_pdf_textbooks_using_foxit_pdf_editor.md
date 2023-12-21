@@ -5,7 +5,9 @@ Textbooks can be very complex and overwhelming. Hence, when learning from pdf te
 **Editing bookmarks using a code editor**  
 To add a bookmark for a location on a page, we press “ctrl + b”. Most textbooks have bookmarks with unnecessary prefixes and too many levels. Hence, we export the bookmarks as an XML file and use a code editor to edit them using regular expressions. This is much faster than editing the bookmarks manually.
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/133a6a7d-6f76-41fe-bebe-800c1311e384)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/133a6a7d-6f76-41fe-bebe-800c1311e384) 
+
+The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/d52f681d-6728-499f-8f11-14cddd967abd)
 
@@ -22,8 +24,6 @@ Currently, we cannot type equations in Foxit pdf editor. Hence, we type our equa
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/64f7d36f-e23e-4f9b-b76d-3d8bcf741c23)
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/2cd5c31d-2a0f-4e40-ad1e-d0b17cb8181e)
-
-The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/a4fd5658-b101-4141-b8e5-fa3d4aaa0646)
 
