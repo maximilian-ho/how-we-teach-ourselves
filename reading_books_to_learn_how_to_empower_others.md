@@ -1,6 +1,6 @@
 # Reading books to learn how to empower others
 
-We continuously read books on management and social issues to learn how to empower others. Many people put down others because they are unaware that there is a better way to live. These books show us the way. 
+We continuously read books on management and social issues to learn how to empower others. These books open our minds to better ways of working together.   
 
 **Reading on our phones**   
 We read these books on our phones using Moon+ reader. Whenever we feel like reading, we open Moon+ reader and read for a few minutes. Instead of reading in a linear order, we jump between different sections, and also jump between books. We find this to be more fun. 
