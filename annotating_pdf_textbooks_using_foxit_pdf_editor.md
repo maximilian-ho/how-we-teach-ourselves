@@ -37,5 +37,5 @@ When there's no space on a page to add a note, we duplicate the page. We then de
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/bc7a14c2-4da6-4a76-9d10-ac285969d86a)   
 
 **Speeding up slow save times**   
-If Foxit pdf editor is taking a long time to save, we can speed it up by following these instructions ([link](https://kb.foxit.com/hc/en-us/articles/4413854556436-Disable-the-feature-of-optimizing-PDF-file-automatically-when-saving-PDF-file-in-Foxit-PDF-Editor#h_01H4FE143D988XERP5T402FAQ4)). 
+If Foxit pdf editor is taking a long time to save files, we can speed it up by following these instructions ([link](https://kb.foxit.com/hc/en-us/articles/4413854556436-Disable-the-feature-of-optimizing-PDF-file-automatically-when-saving-PDF-file-in-Foxit-PDF-Editor)). 
 
