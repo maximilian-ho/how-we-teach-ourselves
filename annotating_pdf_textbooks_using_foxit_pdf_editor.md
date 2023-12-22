@@ -9,7 +9,7 @@ To make the textbooks easy to navigate, they must have comprehensive bookmarks. 
 
 In the image below, we used Visual Studio Code to edit the bookmarks. 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/133a6a7d-6f76-41fe-bebe-800c1311e384) 
+![image](https://github.com/maximilian-ho/articles/assets/94465856/5ce5b81f-e350-4936-9f81-ee81107a4faa) 
 
 The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
