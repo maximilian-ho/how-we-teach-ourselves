@@ -18,13 +18,6 @@ Whenever a new term is defined, we type our own definition and make the new term
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/9426be0f-57c8-4ac9-952a-6905918a67d9)
 
-**Annotating graphs**    
-We also annotate graphs to make them easier to understand.  
-
-![image](https://github.com/maximilian-ho/articles/assets/94465856/ca903895-b81d-4ee5-9cd1-3718362ea5af)
-
-![image](https://github.com/maximilian-ho/articles/assets/94465856/37665f38-b802-45f5-87fe-cb5a138552f3)
-
 **Adding equations**  
 Currently, we cannot type equations in Foxit pdf editor. Hence, we type our equations in Microsoft Word. After that, we use the Snipping Tool to copy an image of the equation, then paste the image onto the page.
 
