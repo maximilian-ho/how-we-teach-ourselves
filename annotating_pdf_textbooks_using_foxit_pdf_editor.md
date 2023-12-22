@@ -1,6 +1,6 @@
 # Annotating pdf textbooks using Foxit pdf editor 
 
-Textbooks can be complex and overwhelming. Hence, when learning from pdf textbooks, we type our notes directly onto the pages. This helps us to process the concepts one step at a time, and makes it easier to understand the text when we review it later.
+When learning from pdf textbooks, we type our notes directly onto the pages. This helps us to process the concepts one step at a time and remember the concepts when we review it later.   
 
 **Editing bookmarks using a code editor**  
 To make the textbooks easy to navigate, they must have comprehensive bookmarks. Most textbooks have bookmarks with unnecessary prefixes and too many levels. Hence, we export the bookmarks as an XML file and use a code editor to edit them using regular expressions. This is much faster than editing the bookmarks manually.
