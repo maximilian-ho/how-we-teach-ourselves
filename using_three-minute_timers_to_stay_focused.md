@@ -5,4 +5,4 @@ Whenever we feel distracted, we set a three-minute timer, during which we must w
 <img src="https://github.com/maximilian-ho/articles/assets/94465856/9bdfeeb1-2880-42c4-b1d9-e549b91c9026" width="400">
 <br><br>
 
-**How it works:** The most difficult part of working is getting started because we often dread all the work we need to complete. The three-minute timer reduces this dread because we only need to focus for three minutes, after which we're allowed to take a break. Most of the time, though, we want to continue working because we feel great after starting a task we've been dreading. 
+**How it works:** The most difficult part of working is getting started because we often dread all the work we need to complete. The three-minute timer reduces this dread because we only need to focus for three minutes, after which we're allowed to take a break. Most of the time, though, we want to continue working because we feel great after starting.  
