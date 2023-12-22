@@ -11,16 +11,15 @@ The images below show the old bookmarks (left image) and the improved bookmarks 
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/d52f681d-6728-499f-8f11-14cddd967abd)
 
-**Typing definitions** 
+**Typing definitions**    
 Whenever a new term is defined, we type our own definition and make the new term bold. 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/23f7f5a2-4beb-4644-a637-412eab466083)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/a51a6087-7c09-40f2-9219-7b8be6b2e526)
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/c6042537-df2a-4309-86aa-032c32b6f381)  
+![image](https://github.com/maximilian-ho/articles/assets/94465856/9426be0f-57c8-4ac9-952a-6905918a67d9)
 
-
-**Typing notes**  
-In the example below, we annotated the graphs to make them easier to understand.
+**Annotating graphs**    
+We also annotate graphs to make them easier to understand.  
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/ca903895-b81d-4ee5-9cd1-3718362ea5af)
 
