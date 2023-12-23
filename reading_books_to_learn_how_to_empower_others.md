@@ -2,7 +2,7 @@
 
 We continuously read books on management and social issues to learn how to empower others.  
 
-**LibGen**   
+**Downloading the books**   
 We download the epub books from LibGen.  
 
 **Reading on our phones**   
