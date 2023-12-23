@@ -2,7 +2,7 @@
 
 When learning from pdf textbooks, we type our notes directly onto the pages. This helps us to process the concepts one step at a time and remember the concepts when we review the textbooks later.   
 
-**LibGen**  
+**Downloading the textbooks**  
 We download the pdf textbooks from LibGen.  
 
 **Editing bookmarks using a code editor**  
