@@ -6,7 +6,7 @@ When learning from pdf textbooks, we type our notes directly onto the pages. Thi
 We download the pdf textbooks from LibGen.  
 
 **Editing bookmarks using a code editor**  
-To make the textbooks easy to navigate, they must have comprehensive bookmarks. Most textbooks have bookmarks with unnecessary prefixes and too many levels. Hence, we export the bookmarks as an XML file and use a code editor to edit them using regular expressions. This is much faster than editing the bookmarks manually. 
+To make the textbooks easy to navigate, they must have comprehensive bookmarks. Most textbooks from LibGen have bookmarks with unnecessary prefixes and too many levels. Hence, we export the bookmarks as an XML file and use a code editor to edit them using regular expressions. This is much faster than editing the bookmarks manually. 
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/13239002-3f23-4f2f-ba89-fae9eafe740f)
 
