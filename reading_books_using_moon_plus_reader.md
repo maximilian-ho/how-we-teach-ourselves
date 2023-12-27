@@ -1,6 +1,6 @@
 # Reading books using Moon+ Reader
 
-We continuously read books on management and social issues.  
+We continuously read books on management and poverty.  
 
 **Downloading the books**   
 We download the epub books from LibGen.  
