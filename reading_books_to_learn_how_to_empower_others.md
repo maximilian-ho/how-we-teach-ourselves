@@ -1,6 +1,6 @@
-# Reading books to learn how to empower others
+# Reading books using Moon+ Reader
 
-We continuously read books on management and social issues to learn how to empower others.  
+We continuously read books on management and social issues.  
 
 **Downloading the books**   
 We download the epub books from LibGen.  
