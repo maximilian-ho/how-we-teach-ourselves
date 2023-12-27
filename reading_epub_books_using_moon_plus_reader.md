@@ -1,4 +1,4 @@
-# Reading books using Moon+ Reader
+# Reading epub ebooks using Moon+ Reader
 
 We continuously read books on management and poverty.  
 
