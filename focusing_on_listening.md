@@ -1,4 +1,4 @@
 # Focusing on listening 
 Whenever we communicate with others, we focus on listening. Instead of giving unsolicited advice, we post it online so that others can look it up themselves.  
 
-**How it works:** We used to be terrible listeners because we were too focused on proving how smart we are. Meanwhile, when we focus on listening, we help others to feel smart.     
+**How it works:** We used to be terrible listeners because we talked too much. Meanwhile, when we focus on listening, we help others feel understood.   
