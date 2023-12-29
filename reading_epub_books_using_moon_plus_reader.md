@@ -9,20 +9,20 @@ We download the epub books from LibGen.
 We read the books on our phones using Moon+ reader. Instead of reading in a linear order, we jump between different sections, and also jump between books. This helps us to constantly review the ideas so that we don't forget them.  
 
 The screenshots below show the contents (left image) and bookmarks (right image) of a book in Moon+ reader. 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/ed6b022e-05ce-4d50-9d41-9c348eeabe24)
-
+![image](https://github.com/maximilian-ho/articles/assets/94465856/d5e2b758-595b-4da6-a738-2f599a8ad4e5)
 
 
 **Adding bookmarks using Calibre**  
 To make the books easy to navigate, they must have comprehensive bookmarks. Since most epub books from LibGen have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the HTML tag and class attribute of each chapter title and subsection title. For example, in the image below, the HTML tag of the chapter title is "h3" and its class attribute is "h3a". 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/4280ad9a-31e4-47e3-a32c-00d73b9659b9)
+![Uploading image.png…]()
+
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/4ebb25c5-960c-4231-98ff-91de2eb0bff2)
 
 The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/e340487c-c6d9-4ed3-b01d-33e1264e9789)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/3731b32f-49ee-4678-98b3-6cae7aa40f31)
 
 
 **Customizing Moon+ reader**  
