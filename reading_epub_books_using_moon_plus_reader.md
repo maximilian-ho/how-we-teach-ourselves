@@ -16,7 +16,7 @@ To make the books easy to navigate, they must have comprehensive bookmarks. Sinc
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/f0c83fa8-3abb-4dd9-afbb-6d1c3ba7abd5)
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/37a4b3e2-c5e3-4bc6-bbe3-02c3483ff5dc)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/fee9550c-5384-4de6-ba5b-ef524cd82534)
 
 The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
