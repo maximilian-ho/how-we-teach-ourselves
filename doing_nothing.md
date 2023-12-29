@@ -1,2 +1,2 @@
 # Doing nothing
-Instead of using entertainment to relax, we simply do nothing.   
+Instead of consuming entertainment to relax, we simply do nothing.   
