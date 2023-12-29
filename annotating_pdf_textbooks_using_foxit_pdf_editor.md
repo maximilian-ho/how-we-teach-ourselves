@@ -21,9 +21,9 @@ The images below show the old bookmarks (left image) and the improved bookmarks 
 **Typing definitions**    
 Whenever a new term is defined, we type our own definition and make the new term bold. 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/301ff188-12eb-47d2-a67a-b4e14877a9bb)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/d207717d-583d-48ce-bc91-c0924e80299f)
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/9426be0f-57c8-4ac9-952a-6905918a67d9)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/71b12ae3-6940-4db1-ac7b-e1b169719e54)
 
 **Adding equations**  
 Currently, we cannot type equations in Foxit pdf editor. Hence, we type our equations in Microsoft Word. After that, we use the Snipping Tool to copy an image of the equation, then paste the image onto the page.
