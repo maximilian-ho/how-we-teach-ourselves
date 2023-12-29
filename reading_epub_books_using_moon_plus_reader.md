@@ -14,15 +14,15 @@ The screenshots below show the contents (left image) and bookmarks (right image)
 
 
 **Adding bookmarks using Calibre**  
-To make the books easy to navigate, they must have comprehensive bookmarks. Since most epub books from LibGen have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the HTML tag and class attribute of each chapter title and subsection title. For example, in the image below, the HTML tag of the subsection title is "p" and its class attribute is "h22". 
+To make the books easy to navigate, they must have comprehensive bookmarks. Since most epub books from LibGen have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the HTML tag and class attribute of each chapter title and subsection title. For example, in the image below, the HTML tag of the chapter title is "h3" and its class attribute is "h3a". 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/d66fd7c8-c6d3-4587-a132-b4d5cf02f836)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/4280ad9a-31e4-47e3-a32c-00d73b9659b9)
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/766f33c8-6ed4-45b5-9c68-d6b788f9c49a)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/4ebb25c5-960c-4231-98ff-91de2eb0bff2)
 
 The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/96ea145d-0cb0-49b2-a96f-9d05563b1bd6)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/e340487c-c6d9-4ed3-b01d-33e1264e9789)
 
 
 **Customizing Moon+ reader**  
