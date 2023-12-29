@@ -9,19 +9,18 @@ We download the epub books from LibGen.
 We read the books on our phones using Moon+ reader. Instead of reading in a linear order, we jump between different sections, and also jump between books. This helps us to constantly review the ideas so that we don't forget them.  
 
 The screenshots below show the contents (left image) and bookmarks (right image) of a book in Moon+ reader. 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/d5e2b758-595b-4da6-a738-2f599a8ad4e5)
-
+![image](https://github.com/maximilian-ho/articles/assets/94465856/e0960644-5726-4822-9004-1de7f7832b18)
 
 **Adding bookmarks using Calibre**  
-To make the books easy to navigate, they must have comprehensive bookmarks. Since most epub books from LibGen have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the HTML tag and class attribute of the chapter and subchapter titles. For example, in the book shown below, the chapter titles have the HTML tag "h3" and the class attribute "h3a". 
+To make the books easy to navigate, they must have comprehensive bookmarks. Since most epub books from LibGen have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the HTML tag and class attribute of the chapter and subchapter titles. For example, in the book shown below, the subsection titles have the HTML tag "h4" and the class attribute "calibre93". 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/a793d0d9-1158-46f3-b58b-3f1d2a770e04)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/f0c83fa8-3abb-4dd9-afbb-6d1c3ba7abd5)
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/4ebb25c5-960c-4231-98ff-91de2eb0bff2)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/37a4b3e2-c5e3-4bc6-bbe3-02c3483ff5dc)
 
 The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/3731b32f-49ee-4678-98b3-6cae7aa40f31)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/d64fa45e-fc01-460a-8c0b-6bcf49c67fb6)
 
 
 **Customizing Moon+ reader**  
