@@ -8,15 +8,15 @@ We download the pdf textbooks from LibGen.
 **Editing bookmarks using a code editor**  
 To make the textbooks easy to navigate, they must have comprehensive bookmarks. Most textbooks from LibGen have bookmarks with unnecessary prefixes and too many levels. Hence, we export the bookmarks as an XML file and use a code editor to edit them using regular expressions. This is much faster than editing the bookmarks manually. 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/13239002-3f23-4f2f-ba89-fae9eafe740f)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/93a4727d-2fc2-4ee3-9341-ecb56b9919e4)
 
 In the image below, we used Visual Studio Code to edit the bookmarks. 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/5ce5b81f-e350-4936-9f81-ee81107a4faa) 
+![image](https://github.com/maximilian-ho/articles/assets/94465856/3667ef53-9f8c-4be9-aa92-e2371cac850d)
 
 The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/d52f681d-6728-499f-8f11-14cddd967abd)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/d14d8bb5-9d8e-4bdb-82f0-9c1243167a05)
 
 **Typing definitions**    
 Whenever a new term is defined, we type our own definition and make the new term bold. 
