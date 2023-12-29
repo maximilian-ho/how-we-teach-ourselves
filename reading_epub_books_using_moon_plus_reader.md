@@ -12,7 +12,7 @@ The screenshots below show the contents (left image) and bookmarks (right image)
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/e0960644-5726-4822-9004-1de7f7832b18)
 
 **Adding bookmarks using Calibre**  
-To make the books easy to navigate, they must have comprehensive bookmarks. Since most epub books from LibGen have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the HTML tag and class attribute of the chapter and subchapter titles. For example, in the book shown below, the subsection titles have the HTML tag "h4" and the class attribute "calibre93". 
+To make the books easy to navigate, they must have comprehensive bookmarks. Since most epub books from LibGen have incomplete bookmarks, we add them ourselves using Calibre editor. To do so, we need to identify the HTML tag and class attribute of the chapter and subchapter titles. For example, in the book shown below, the subchapter titles have the HTML tag "h4" and the class attribute "calibre93". 
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/f0c83fa8-3abb-4dd9-afbb-6d1c3ba7abd5)
 
