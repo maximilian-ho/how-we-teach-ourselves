@@ -1,2 +1,2 @@
 # Doing nothing  
-Instead of consuming entertainment, we simply do nothing. As a result, we trained ourselves to endure our cravings for entertainment.  
+Instead of consuming entertainment, we simply do nothing. As a result, we are no longer a slave to entertainment.  
