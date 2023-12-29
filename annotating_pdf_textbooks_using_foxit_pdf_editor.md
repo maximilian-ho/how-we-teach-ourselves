@@ -14,9 +14,9 @@ In the image below, we used Visual Studio Code to edit the bookmarks.
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/3667ef53-9f8c-4be9-aa92-e2371cac850d)
 
-The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
+The images below show the old bookmarks (left image) and the improved bookmarks (right image).   
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/d14d8bb5-9d8e-4bdb-82f0-9c1243167a05)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/d14d8bb5-9d8e-4bdb-82f0-9c1243167a05)   
 
 **Typing definitions**    
 Whenever a new term is defined, we type our own definition and make the new term bold. 
