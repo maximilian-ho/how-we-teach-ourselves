@@ -9,7 +9,8 @@ We download the epub books from LibGen.
 We read the books on our phones using Moon+ reader. Instead of reading in a linear order, we jump between different sections, and also jump between books. This helps us to constantly review the ideas so that we don't forget them.  
 
 The screenshots below show the contents (left image) and bookmarks (right image) of a book in Moon+ reader. 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/868df99f-9d69-4d49-ba38-55ee7c1f9592)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/ed6b022e-05ce-4d50-9d41-9c348eeabe24)
+
 
 
 **Adding bookmarks using Calibre**  
