@@ -26,7 +26,7 @@ The images below show the old bookmarks (left image) and the improved bookmarks 
 **Customizing Moon+ reader**  
 We use Moon+ reader because it's highly customizable. We recommend using the settings in the screenshots below.
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/d4aca8d2-e08a-49d1-92e9-675a9669c06a)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/23427005-ccfd-4632-9cfb-eb38fb1cec4b)
 
 “Disable CSS styles” (left image) standardizes the font settings for all books. Meanwhile, setting the “Left to Right” finger gesture to “Show Chapters” (right image) allows us to quickly access the bookmarks for each book.  
 
