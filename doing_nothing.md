@@ -1,2 +1,2 @@
-# Doing nothing  
-Instead of consuming entertainment, we simply do nothing.  
+# Embracing boredom 
+Instead of consuming entertainment, we embrace boredom.    
