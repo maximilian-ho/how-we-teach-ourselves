@@ -1,7 +1,5 @@
 # Project information
 site_name: How we teach ourselves
-site_description: 'How we teach ourselves"
-site_author: 'Maximilian Ho'
 
 # Repository
 repo_name: 'GitHub'
@@ -9,11 +7,6 @@ repo_url: 'https://github.com/maximilian-ho/how-we-teach-ourselves'
 
 # Documentation and theme
 theme: 'readthedocs'
-
-# Options
-extra:
-  author:
-    github: 'maximilian-ho'
 
 # Extensions
 markdown_extensions:
