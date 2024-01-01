@@ -1,10 +1,6 @@
 # Project information
 site_name: How we teach ourselves
 
-# Repository
-repo_name: 'GitHub'
-repo_url: 'https://github.com/maximilian-ho/how-we-teach-ourselves'
-
 # Documentation and theme
 theme: 'readthedocs'
 
