@@ -1,3 +1,3 @@
 # Articles 
 
-This webpage explains our procedures for teaching ourselves. We hope it helps someone.  
+This webpage explains our procedures for teaching ourselves. We are sharing them in case they help someone.  
