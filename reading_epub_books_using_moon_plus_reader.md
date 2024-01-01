@@ -21,7 +21,7 @@ To make the books easy to navigate, they must have comprehensive bookmarks. Sinc
 
 The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/d64fa45e-fc01-460a-8c0b-6bcf49c67fb6)
+![image](https://github.com/maximilian-ho/articles/assets/94465856/e5299fcb-d05c-442a-9bb2-658e578d45c5)
 
 
 **Customizing Moon+ reader**  
