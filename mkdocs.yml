@@ -21,6 +21,6 @@ markdown_extensions:
 
 pages:
     - Home: index.md
-    - Learning how to be bored: learning_how_to_be_bored.md
-    - Reading epub books using Moon+ Reader: reading_epub_books_using_moon_plus_reader.md
-    - Annotating pdf textbooks using Foxit PDF Editor: annotating_pdf_textbooks_using_foxit_pdf_editor.md 
+    - Learning how to be bored: boredom.md
+    - Reading epub books using Moon+ Reader: epubs.md
+    - Annotating pdf textbooks using Foxit PDF Editor: pdfs.md 
