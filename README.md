@@ -1,1 +1,1 @@
-docs/index.md
+# How we teach ourselves
