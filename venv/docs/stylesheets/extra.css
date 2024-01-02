@@ -1,0 +1,10 @@
+.md-typeset h1 {
+    font-weight: bold;
+    color: black;
+    border-bottom: 1px solid grey
+  }
+
+nav {
+    overflow: hidden;
+}
+
