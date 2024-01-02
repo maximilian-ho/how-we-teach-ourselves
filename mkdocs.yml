@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 site_name: How we teach ourselves
 
 nav:
@@ -21,27 +20,3 @@ plugins: []
 
 extra_css:
   - stylesheets/extra.css
-=======
-site_name: How we teach ourselves
-
-nav:
-   - Homepage: "index.md"
-   - Learning how to be bored: "boredom.md"
-   - Reading epub ebooks using Moon+ Reader: "epubs.md"
-   - Annotating pdf textbooks using Foxit PDF editor: "pdfs.md"
-
-theme:
-  name: material
-  custom_dir: overrides
-  favicon: assets/images/favicon.png
-  features:
-    - toc.integrate
-
-  palette:
-    primary: indigo
-
-plugins: []
-
-extra_css:
-  - stylesheets/extra.css
->>>>>>> bf1268b46efafd8d7879b823e4f49b6bcff894a1
