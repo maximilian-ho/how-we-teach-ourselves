@@ -5,12 +5,10 @@ When learning from pdf textbooks, we type our notes directly onto the pages. Thi
 **Downloading the textbooks**  
 We download the pdf textbooks from LibGen.  
 
-**Editing bookmarks using a code editor**  
-To make the textbooks easy to navigate, they must have comprehensive bookmarks. Most textbooks from LibGen have bookmarks with unnecessary prefixes and too many levels. Hence, we export the bookmarks as an XML file and use a code editor to edit them using regular expressions. This is much faster than editing the bookmarks manually. 
+**Editing bookmarks using Visual Studio Code**  
+To make the textbooks easy to navigate, they must have comprehensive bookmarks. Most textbooks from LibGen have bookmarks with unnecessary prefixes and too many levels. Hence, we export the bookmarks as an XML file and use Visual Studio Code to edit them using regular expressions. This is much faster than editing the bookmarks manually. 
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/93a4727d-2fc2-4ee3-9341-ecb56b9919e4)
-
-In the image below, we used Visual Studio Code to edit the bookmarks. 
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/3667ef53-9f8c-4be9-aa92-e2371cac850d)
 
