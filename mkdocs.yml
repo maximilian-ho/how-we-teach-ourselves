@@ -8,7 +8,7 @@ theme: 'readthedocs'
 markdown_extensions:
   - admonition
 
-pages:
+nav:
     - Home: index.md
     - Developing our boredom muscles: boredom.md
     - Reading epub books using Moon+ Reader: epubs.md
