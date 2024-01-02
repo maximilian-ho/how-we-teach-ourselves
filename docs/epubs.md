@@ -6,7 +6,7 @@ We continuously read books on productivity, management, and social issues. We wi
 We download the epub books from LibGen.  
 
 **Reading on our phones**   
-We read the books on our phones using Moon+ reader. Instead of reading in a linear order, we jump between different sections, and also jump between books. This helps us to constantly review the ideas so that we don't forget them.  
+We read the books on our phones using Moon+ reader. Instead of reading in a linear order, we jump between different sections, and also jump between books. This helps us to constantly review the ideas in the best books.  
 
 The screenshots below show the contents (left image) and bookmarks (right image) of a book in Moon+ reader. 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/a6d21190-3a2c-4fa5-898a-17d3b55e9b6f)  
