@@ -1,15 +1,22 @@
-# Project information
 site_name: How we teach ourselves
 
-# Documentation and theme
-theme: 'readthedocs'
-
-# Extensions
-markdown_extensions:
-  - admonition
-
 nav:
-    - Home: index.md
-    - Developing our boredom muscles: boredom.md
-    - Reading epub books using Moon+ Reader: epubs.md
-    - Annotating pdf textbooks using Foxit PDF Editor: pdfs.md 
+   - Homepage: "index.md"
+   - Learning how to be bored: "boredom.md"
+   - Reading epub ebooks using Moon+ Reader: "epubs.md"
+   - Annotating pdf textbooks using Foxit PDF editor: "pdfs.md"
+
+theme:
+  name: material
+  custom_dir: overrides
+  favicon: assets/images/favicon.png
+  features:
+    - toc.integrate
+
+  palette:
+    primary: indigo
+
+plugins: []
+
+extra_css:
+  - stylesheets/extra.css
