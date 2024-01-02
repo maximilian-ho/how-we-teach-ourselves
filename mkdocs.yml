@@ -6,8 +6,6 @@ nav:
    - Reading epub ebooks using Moon+ Reader: "epubs.md"
    - Annotating pdf textbooks using Foxit PDF editor: "pdfs.md"
 
-repo_url: https://github.com/maximilian-ho/how-we-teach-ourselves
-
 theme:
   name: material
   custom_dir: overrides
@@ -15,9 +13,7 @@ theme:
   features:
     - toc.integrate
   palette:
-    primary: indigo
-  icon: 
-    repo: fontawesome/brands/github
+    primary: indigo 
 
 plugins: []
 
