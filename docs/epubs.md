@@ -19,7 +19,7 @@ To make the books easy to navigate, they must have comprehensive bookmarks. Sinc
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/dba68d28-4ef6-4c86-ae1b-e6ed6d0a1dba) 
 
-After Calibre generates the bookmarks, we can fix any errors manually.  
+Calibre also allows us to manually edit the bookmarks after they are generated.   
 
 The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
