@@ -24,7 +24,7 @@ Whenever a new term is defined, we type our own definition and make the new term
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/71b12ae3-6940-4db1-ac7b-e1b169719e54)
 
 **Adding equations**  
-Currently, we cannot type equations in Foxit pdf editor. Hence, we type our equations in Microsoft Word. After that, we use the Snipping Tool to copy an image of the equation, then paste the image onto the page.
+Currently, we cannot type equations in Foxit PDF Editor. Hence, we type our equations in Microsoft Word. After that, we use the Snipping Tool to copy an image of the equation, then paste the image onto the page.
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/64f7d36f-e23e-4f9b-b76d-3d8bcf741c23)
 
