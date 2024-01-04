@@ -1,6 +1,6 @@
 # Reading epub ebooks using Moon+ Reader
 
-We constantly read books on productivity, tech company management, and social issues. We wish we'd started reading these books earlier because they're full of good advice.  
+We constantly read books on tech company management and social issues. We wish we'd started reading these books earlier because they're full of good advice.  
 
 **Downloading the books**   
 We download the epub books from LibGen.  
