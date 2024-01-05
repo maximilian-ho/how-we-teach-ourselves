@@ -13,7 +13,7 @@ The screenshots below show the contents (left image) and bookmarks (right image)
 
 
 **Adding bookmarks using Calibre**  
-To make the books easy to navigate, they must have comprehensive bookmarks. Since most epub books from LibGen have incomplete bookmarks, we add them ourselves using Calibre editor. Calibre can automatically generate the bookmarks given the HTML tag and class attribute of each chapter level. In the book shown below, the 2nd chapter level has the HTML tag "h1" and the class attribute "sect1c". 
+To make the books easy to navigate, they must have comprehensive bookmarks. Since most epub books from LibGen have incomplete bookmarks, we add them ourselves using Calibre editor. Calibre can automatically generate the bookmarks given the HTML tag and class attribute of each chapter level. In the book shown below, the 2nd chapter level has the HTML tag "h3" and the class attribute "para-h1". 
 
 ![image](https://github.com/maximilian-ho/how-we-teach-ourselves/assets/94465856/8e851d64-31f9-4e26-8627-623b8f1a9b29)
 
