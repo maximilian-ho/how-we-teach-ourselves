@@ -9,7 +9,7 @@ We download the epub books from LibGen.
 We read the books on our phones using Moon+ reader. Instead of reading in a linear order, we jump between different sections, and also jump between books. This helps us to constantly review the ideas in our favorite books.  
 
 The screenshots below show the contents (left image) and bookmarks (right image) of a book in Moon+ reader. 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/a6d21190-3a2c-4fa5-898a-17d3b55e9b6f)  
+![image](https://github.com/maximilian-ho/how-we-teach-ourselves/assets/94465856/d9f00406-b13c-4837-9342-2766c15792b7)  
 
 
 **Adding bookmarks using Calibre**  
@@ -17,11 +17,12 @@ To make the books easy to navigate, they must have comprehensive bookmarks. Sinc
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/0c64fae6-3629-4eef-9774-d5c3f0dd88d1)
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/dba68d28-4ef6-4c86-ae1b-e6ed6d0a1dba)  
+![image](https://github.com/maximilian-ho/how-we-teach-ourselves/assets/94465856/36f25753-115a-43c2-9503-42b2784b2213)
+
 
 The images below show the old bookmarks (left image) and the improved bookmarks (right image). 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/e5299fcb-d05c-442a-9bb2-658e578d45c5)
+![image](https://github.com/maximilian-ho/how-we-teach-ourselves/assets/94465856/5f4a1d16-d2eb-4db6-ba8c-034788ade7a6)
 
 
 **Customizing Moon+ reader**  
