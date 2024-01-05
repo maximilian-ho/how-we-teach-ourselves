@@ -1,3 +1,3 @@
 # Meditating instead of consuming entertainment 
 
-We used to be addicted to entertainment and wasted a lot of time consuming it. Fortunately, after doing some research, we realized that the solution is to meditate whenever we have a craving for entertainment. To meditate, we set a ten-minute timer, close our eyes, and focus on deep breathing. 
+Entertainment is the biggest impediment to teaching ourselves. Hence, whenever we have a craving for entertainment, we meditate instead. To meditate, we set a ten-minute timer, close our eyes, and focus on deep breathing.  
