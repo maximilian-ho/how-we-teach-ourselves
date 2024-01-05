@@ -2,9 +2,10 @@ site_name: How we teach ourselves
 
 nav:
    - Homepage: "index.md"
-   - Meditating instead of consuming entertainment: "meditation.md"
+   - Meditating instead of consuming entertainment: "meditating.md"
    - Reading epub ebooks using Moon+ Reader: "epubs.md"
    - Annotating pdf textbooks using Foxit PDF editor: "pdfs.md"
+   - Reminding ourselves to not ramble: "rambling.md"
 
 theme:
   name: material
