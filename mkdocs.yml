@@ -4,8 +4,7 @@ nav:
    - Homepage: "index.md"
    - Meditating instead of consuming entertainment: "meditating.md"
    - Reading epub ebooks using Moon+ Reader: "epubs.md"
-   - Annotating pdf textbooks using Foxit PDF editor: "pdfs.md"
-   - Reminding ourselves to not ramble: "rambling.md"
+   - Annotating pdf textbooks using Foxit PDF editor: "pdfs.md" 
 
 theme:
   name: material
