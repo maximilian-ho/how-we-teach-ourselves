@@ -1,6 +1,6 @@
 # Reading epub ebooks using Moon+ Reader
 
-We constantly read books on technology, tech company management, and poverty.   
+We constantly read books on technology and tech company management.   
 
 **Downloading the books**   
 We download the epub books from LibGen.  
