@@ -4,6 +4,7 @@ nav:
    - Homepage: "index.md"  
    - Reading epub ebooks using Moon+ Reader: "epubs.md"
    - Annotating pdf textbooks using Foxit PDF editor: "pdfs.md" 
+   - Tossing balls into trash cans: "balls.md"  
 
 theme:
   name: material
