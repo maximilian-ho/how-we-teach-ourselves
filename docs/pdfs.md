@@ -30,7 +30,7 @@ Currently, we cannot type equations in Foxit PDF Editor. Hence, we type our equa
 
 ![image](https://github.com/maximilian-ho/how-we-teach-ourselves/assets/94465856/49b5d879-b697-45c2-8a8e-83158801282d)
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/a4fd5658-b101-4141-b8e5-fa3d4aaa0646)
+![image](https://github.com/maximilian-ho/how-we-teach-ourselves/assets/94465856/3208a3c4-8dd1-4c15-a4dd-5b8fc0daf3ae)
 
 **Making space**  
 When there's no space on a page to add a note, we duplicate the page. We then delete the bottom half from the top page, and the top half from the bottom page. This creates plenty of empty space that we crop out after adding our notes.  
