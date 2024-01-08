@@ -19,7 +19,7 @@ The images below show the old bookmarks (left image) and the improved bookmarks 
 **Typing definitions**    
 Whenever a new term is defined, we type our own definition and make the new term bold. 
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/d207717d-583d-48ce-bc91-c0924e80299f)
+![image](https://github.com/maximilian-ho/how-we-teach-ourselves/assets/94465856/e4a42825-19dc-4005-90a7-b4a96ec55e9f)
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/71b12ae3-6940-4db1-ac7b-e1b169719e54)
 
