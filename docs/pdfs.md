@@ -28,7 +28,7 @@ Currently, we cannot type equations in Foxit PDF Editor. Hence, we type our equa
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/64f7d36f-e23e-4f9b-b76d-3d8bcf741c23)
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/2cd5c31d-2a0f-4e40-ad1e-d0b17cb8181e)
+![image](https://github.com/maximilian-ho/how-we-teach-ourselves/assets/94465856/49b5d879-b697-45c2-8a8e-83158801282d)
 
 ![image](https://github.com/maximilian-ho/articles/assets/94465856/a4fd5658-b101-4141-b8e5-fa3d4aaa0646)
 
