@@ -21,7 +21,7 @@ Whenever a new term is defined, we type our own definition and make the new term
 
 ![image](https://github.com/maximilian-ho/how-we-teach-ourselves/assets/94465856/e4a42825-19dc-4005-90a7-b4a96ec55e9f)
 
-![image](https://github.com/maximilian-ho/articles/assets/94465856/71b12ae3-6940-4db1-ac7b-e1b169719e54)
+![image](https://github.com/maximilian-ho/how-we-teach-ourselves/assets/94465856/e9e11053-0239-4b65-887b-16e0d2414b27)  
 
 **Adding equations**  
 Currently, we cannot type equations in Foxit PDF Editor. Hence, we type our equations in Microsoft Word. After that, we use the Snipping Tool to copy an image of the equation, then paste the image onto the page.
